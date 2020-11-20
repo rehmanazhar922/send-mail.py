@@ -3,7 +3,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 sub = input("[+] subject > ")
 msg = input("[?] message > ")
-to = input("[?] to > ")
+to = "cybersecurty922@gmail.com"
 #The mail addresses and password
 sender_address = 'rehmanazhar922@gmail.com'
 sender_pass = 'passwrd'
